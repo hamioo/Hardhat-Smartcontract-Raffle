@@ -25,7 +25,7 @@ this smart contract uses [ChainLink VRF](https://docs.chain.link/vrf/v2/introduc
 
 ___
 
-> git clone https://github.com/hamioo/Hardhat-Smartcontract-Raffle.git
+> git clone https://github.com/hamioo/Hardhat-Smartcontract-Raffle
 >
 > cd Hardhat-Smartcontract-Raffle
 >
