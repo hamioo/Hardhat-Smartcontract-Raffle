@@ -1,8 +1,8 @@
 # Hardhat Smartcontract Lottery (Raffle)
 
-This project is a **Verifiable Random Autonomous Decentralised Raffle or Lottery deployed on a Blockchain!!**
+This project is a **Verifiable Random Autonomous Decentralized  Raffle or Lottery deployed on a Blockchain!!**
 
-this smart contract uses [ChainLink VRF](https://docs.chain.link/vrf/v2/introduction) and [ChainLink Keepers](https://docs.chain.link/chainlink-automation/introduction/) to be **fully decentralised**.
+this smart contract uses [ChainLink VRF](https://docs.chain.link/vrf/v2/introduction) and [ChainLink Keepers](https://docs.chain.link/chainlink-automation/introduction/) to be **fully Decentralized**.
 
 <br>
 
@@ -25,9 +25,9 @@ this smart contract uses [ChainLink VRF](https://docs.chain.link/vrf/v2/introduc
 
 ___
 
-> git clone https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
+> git clone https://github.com/hamioo/Hardhat-Smartcontract-Raffle.git
 >
-> cd hardhat-smartcontract-lottery-fcc
+> cd Hardhat-Smartcontract-Raffle
 >
 > yarn
 
