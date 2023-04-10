@@ -25,11 +25,11 @@ this smart contract uses [ChainLink VRF](https://docs.chain.link/vrf/v2/introduc
 
 ___
 
-> git clone https://github.com/hamioo/Hardhat-Smartcontract-Raffle
+> `git clone https://github.com/hamioo/Hardhat-Smartcontract-Raffle`
 >
-> cd Hardhat-Smartcontract-Raffle
+> `cd Hardhat-Smartcontract-Raffle`
 >
-> yarn
+> `yarn`
 
 <br>
 
@@ -37,15 +37,15 @@ ___
 
 **Deploy**:
 
-> yarn hardhat deploy
+> `yarn hardhat deploy`
 
 **Testing**:
 
-> yarn hardhat test
+> `yarn hardhat test`
 
 **Test Coverage**:
 
-> yarn hardhat coverage
+> `yarn hardhat coverage`
 
 <br>
 
@@ -53,11 +53,11 @@ ___
 
 **To check linting / code formatting**:
 
-> yarn lint
+> `yarn lint`
 
 **or, to fix**:
 
-> yarn lint:fix
+> `yarn lint:fix`
 
 <br>
 
